@@ -1,0 +1,11 @@
+1. create a component called HelloComponent using the ff files
+hello.component.html
+hello.component.scss
+hello.component.ts
+2. ensure that the component is added to module declareation
+3. erase the contents of app.component.html
+4. use your new <hello></hello> component inside app.component.html
+
+HINT. 
+you can use angular-cli "ng g component hello",
+or you can just peek at hey.component.ts and app.module.ts
